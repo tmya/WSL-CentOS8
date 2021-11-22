@@ -42,7 +42,7 @@ CentOS 8 Linux EULA is [here](https://git.centos.org/rpms/centos-release/blob/c8
 
 CentOS 8 Linux License is [here](https://git.centos.org/rpms/centos-release/blob/c8/f/SOURCES/GPL).
 
-Other package license files exist under `/usr/share/licenses`. Source code is [here](https://vauld.centos.org/centos/8.4.2105/).
+Other package license files exist under `/usr/share/licenses`. Source code is [here](https://vault.centos.org/centos/8.4.2105/).
 
 
 
